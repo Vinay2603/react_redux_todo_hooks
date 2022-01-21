@@ -66,7 +66,7 @@ const getTodo =()=>{
          
          <div>{el.title}</div>
          <div> status:{ !el.status ? "false" :"true"}</div>
-          <Link to={`/todos/${el.id}`}><button>EDIT</button></Link>
+          {/* <Link to={`/todos/${el.id}`}><button>EDIT</button></Link> */}
           <button
             onClick={()=>{
                 // console.log(deleteTodo(el.id))
