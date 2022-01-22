@@ -1,9 +1,19 @@
 {
   "todos": [
     {
-      "title": "react",
+      "title": "actions type  ",
       "status": false,
       "id": 1
+    },
+    {
+      "title": "actions type  svs",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "actions type  svsvsvs",
+      "status": false,
+      "id": 3
     }
   ]
 }
